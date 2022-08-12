@@ -7,7 +7,7 @@
 kavod_kardan(donation)
 }
 \arguments{
-\item{donation}{The amount you would like to donate for a torah portion}
+\item{donation}{The amount you would like to donate}
 }
 \description{
 Title

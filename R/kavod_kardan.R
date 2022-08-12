@@ -1,6 +1,6 @@
 #' Title
 #'
-#' @param donation The amount you would like to donate for a torah portion
+#' @param donation The amount you would like to donate
 #'
 #' @return
 #' @export
